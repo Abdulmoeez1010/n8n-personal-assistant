@@ -146,7 +146,7 @@ All credentials are stored securely inside n8n — never hardcoded.
 ## 👤 Author
 
 **Abdul Moeez**  
-BS Artificial Intelligence  
+AI/ML Engineer
 [GitHub](https://github.com/Abdulmoeez1010)
 
 ---
